@@ -40,7 +40,7 @@ A simple blog management system built with Laravel.
         cp .env.example .env
     ```
 
-5. *Generate the application key:**
+5. **Generate the application key:**
     ```bash
         php artisan key:generate
     ```
@@ -63,9 +63,9 @@ A simple blog management system built with Laravel.
 
 Run the basic tests for the application:
 
-    ```bash
-        php artisan test
-    ```
+
+    php artisan test
+
 
 ## Usage
 
