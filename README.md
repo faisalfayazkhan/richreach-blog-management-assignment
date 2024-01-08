@@ -56,12 +56,8 @@ A simple blog management system built with Laravel.
     ```
 8. **Install Breeze assets:**
     ```bash
-       php artisan breeze:install
+       npm install && npm run prod
     ```
-9. **Choose the options:**
-    - ** Which Breeze stack would you like to install?:** `blade`
-    - ** Would you like dark mode support?:** `yes`
-    - ** Which testing framework do you prefer?:** `0`
 
 ## Running Tests
 
