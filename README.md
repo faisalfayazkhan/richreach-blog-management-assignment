@@ -77,8 +77,13 @@ Seed the database with initial data, including default user:
 php artisan db:seed
 ```
 
-**Basic Testing**
+### Basic Testing
 
+**Run the development server:**
+
+```bash
+php artisan serve
+```
 Default users created during seeding:
 
 - **Username:** `admin@example.com`
