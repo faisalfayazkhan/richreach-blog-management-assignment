@@ -54,7 +54,7 @@ A simple blog management system built with Laravel.
     ```bash
        php artisan db:seed
     ```
-8. **Install Breeze assets:**
+8. **Install frontend assets:**
     ```bash
        npm install && npm run prod
     ```
