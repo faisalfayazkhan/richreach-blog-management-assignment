@@ -56,7 +56,7 @@ A simple blog management system built with Laravel.
     ```
 8. **Install frontend assets:**
     ```bash
-       npm install && npm run prod
+       npm install && npm run build
     ```
 
 ## Running Tests
